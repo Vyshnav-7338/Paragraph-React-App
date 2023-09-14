@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Paragraph-React-App/static/css/main.4ac94dca.css",
+    "main.js": "/Paragraph-React-App/static/js/main.cce41863.js",
+    "static/js/787.4c0d8dbe.chunk.js": "/Paragraph-React-App/static/js/787.4c0d8dbe.chunk.js",
+    "index.html": "/Paragraph-React-App/index.html",
+    "main.4ac94dca.css.map": "/Paragraph-React-App/static/css/main.4ac94dca.css.map",
+    "main.cce41863.js.map": "/Paragraph-React-App/static/js/main.cce41863.js.map",
+    "787.4c0d8dbe.chunk.js.map": "/Paragraph-React-App/static/js/787.4c0d8dbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.cce41863.js"
+  ]
+}
